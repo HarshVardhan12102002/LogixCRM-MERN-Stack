@@ -59,9 +59,3 @@ A modern, full-featured CRM dashboard built to manage customer relationships eff
   
 <h3><b>Live Demo:</b> https://logixcrmadmin-harsh.onrender.com</h3>
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
-
-<h3><b>Live Demo:</b> https://logixcrmadmin-harsh.onrender.com</h3>
